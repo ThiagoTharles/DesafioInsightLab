@@ -1,0 +1,58 @@
+{
+  "tariffs": [
+    {
+      "id": 1,
+      "origin": "011",
+      "destiny": "016",
+      "fee": 1.90
+    },
+    {
+      "id": 2,
+      "origin": "016",
+      "destiny": "011",
+      "fee": 2.90
+    },
+    {
+      "id": 3,
+      "origin": "011",
+      "destiny": "017",
+      "fee": 1.70
+    },
+    {
+      "id": 4,
+      "origin": "017",
+      "destiny": "011",
+      "fee": 2.70
+    },
+    {
+      "id": 5,
+      "origin": "011",
+      "destiny": "018",
+      "fee": 0.90
+    },
+    {
+      "id": 6,
+      "origin": "018",
+      "destiny": "011",
+      "fee": 1.90
+    }
+  ],
+  
+  "plans": [
+    {
+      "id": 1,
+      "name": "FaleMais 30",
+      "description": "Voce ganha 30 minutos de graça e paga 10% a mais da tarifa para cada minuto excedente."
+    },
+    {
+      "id": 2,
+      "name": "FaleMais 60",
+      "description": "Voce ganha 60 minutos de graça e paga 10% a mais da tarifa para cada minuto excedente."
+    },
+    {
+      "id": 3,
+      "name": "FaleMais 120",
+      "description": "Voce ganha 120 minutos de graça e paga 10% a mais da tarifa para cada minuto excedente."
+    }
+  ]
+}
